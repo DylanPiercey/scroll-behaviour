@@ -1,7 +1,7 @@
 {
   "name": "scroll-behaviour",
   "description": "Scroll Behavior polyfill http://iamdustan.com/smoothscroll for universal use.",
-  "version": "1.0.0",
+  "version": "0.3.3",
   "author": "Dylan Piercey <pierceydylan@gmail.com>",
   "bugs": "https://github.com/DylanPiercey/scroll-behaviour/issues",
   "homepage": "https://github.com/DylanPiercey/scroll-behaviour",
